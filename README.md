@@ -13,7 +13,7 @@ Small, runnable exercises I wrote while working through Python fundamentals and 
 | `RedTeam/ErrorHandling.py`, `Logging.py` | Exceptions and the `logging` module |
 | `RedTeam/Configs/` | Reading settings from an `.ini` file with `configparser` |
 | `RedTeam/Modules.py` | Modules and imports |
-| `RedTeam/Threading.py`, `Threading 2.py`, `threading.py` | Threads and synchronisation |
+| `RedTeam/Threading.py`, `Threading 2.py`, `threading_basics.py` | Threads and synchronisation |
 | `RedTeam/Sockets/` | TCP client and server with the `socket` module |
 | `dnsenum.py` | Small helper that resolves a list of subdomains with the system `host` command |
 
